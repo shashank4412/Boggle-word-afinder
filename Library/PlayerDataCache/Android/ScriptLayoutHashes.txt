@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-C:/Users/shash/Documents/Unity Projects/BoggleBoard/Build/Version1.apk
+C:/Users/shash/Documents/Unity Projects/BoggleBoard/Build/Boggle(v1.0).apk
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleSceneDARK.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
