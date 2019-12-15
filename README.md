@@ -2,7 +2,6 @@
 Boggle Finder (Unity version : 2018.4.9f1)
 
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
-
 With these inputs from user this programme search for possible boggle words.
 
 If you've never heard of Boggle then see ​http://en.wikipedia.org/wiki/Boggle​ for a better description
