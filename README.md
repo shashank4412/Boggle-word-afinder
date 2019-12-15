@@ -1,7 +1,10 @@
 # Boggle-Word-Finder
 Boggle Finder (Unity version : 2018.4.9f1)
+
 ![Alt text](/BoggleFinder.png?raw=true "ScreenShotBogglev0.1")
+
 [Boggle(v0.1.0).apk](Build/Boggle(v0.1.0).apk)
+
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
 With these inputs from user this programme search for possible boggle words.
 
