@@ -1,4 +1,4 @@
-# Boggle-word-afinder
+# Boggle-Word-Finder
 Boggle Finder (Unity project)
 
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
