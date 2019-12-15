@@ -1,5 +1,5 @@
 # Boggle-Word-Finder
-Boggle Finder (Unity project)
+Boggle Finder (Unity version : 2018.4.9f1)
 
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
 
