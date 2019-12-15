@@ -1,6 +1,8 @@
 # Boggle-Word-Finder
 Boggle Finder (Unity version : 2018.4.9f1)
 
+![Alt text](/BoggleWordFinder.jpg?raw=true "Optional Title")
+
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
 With these inputs from user this programme search for possible boggle words.
 
