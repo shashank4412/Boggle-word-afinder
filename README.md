@@ -4,7 +4,7 @@ Boggle Finder (Unity version : 2018.4.9f1)
 <<<<<<< HEAD
 ![Alt text](/BoggleFinder.png?raw=true "ScreenShotBogglev0.1")
 
-[Boggle(v0.1).apk](Build/Boggle(v0.1).apk)
+[Boggle(v0.1.0).apk](Build/Boggle(v0.1.0).apk)
 =======
 ![Alt text](/BoggleFinder.jpg?raw=true "Optional Title")
 
