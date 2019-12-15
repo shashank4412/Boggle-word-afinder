@@ -9,7 +9,9 @@ If you've never heard of Boggle then see â€‹http://en.wikipedia.org/wiki/Boggleâ
 than I can write. A 3x3 boggle board that looks like this:
 
 y o x
+
 r b a
+
 v e d
 
 Has exactly the following words on it : bred, yore, byre, abed, oread, bore, orby, robed, broad, byroad, robe, bored, derby, bade, aero, read, orbed, verb, aery, bead, bread, very, road
