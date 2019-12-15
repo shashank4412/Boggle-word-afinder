@@ -3,6 +3,8 @@ Boggle Finder (Unity version : 2018.4.9f1)
 
 ![Alt text](/BoggleFinder.jpg?raw=true "Optional Title")
 
+[Boggle(v0.1).apk](Build/Version1.apk)
+
 This projects takes 3x3 words/Boggle-board (in InputField) and a dictionary of words.
 With these inputs from user this programme search for possible boggle words.
 
